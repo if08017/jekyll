@@ -1,7 +1,23 @@
 ---
----
-
----
 label: asdasdasdasdasd
 hide_body: true
-fields: []
+fields:
+- name: adsdas
+  type: text
+  config:
+    required: false
+  label: adsdas
+  description: dasdadadasdadad
+- name: dasdasda
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: dasdasda
+  description: asdasdasd
