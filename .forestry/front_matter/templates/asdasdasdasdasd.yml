@@ -1,7 +1,4 @@
 ---
----
-
----
 label: asdasdasdasdasd
 hide_body: true
 fields:
@@ -25,5 +22,5 @@ fields:
   label: dasdasda
   description: asdasdasd
 pages:
+- _posts/2020-07-01-jjjj.md
 - _posts/2020-07-01-sadasdasdadad.md
-- _posts/jjjj.md
