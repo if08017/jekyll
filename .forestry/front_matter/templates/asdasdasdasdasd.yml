@@ -1,7 +1,4 @@
 ---
----
-
----
 label: asdasdasdasdasd
 hide_body: true
 fields:
@@ -24,3 +21,5 @@ fields:
       path: 
   label: dasdasda
   description: asdasdasd
+pages:
+- _posts/jjjj.md
